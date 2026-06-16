@@ -2,7 +2,9 @@ title: airsound : 에어비엔비 카피
 
 airbnb 사이트의 Clone 웹사이트 입니다.
     
-URL:"https://daehyeonkim0326-sys.github.io/airbnb_clone/",
+URL:"https://daehyeonkim0326-sys.github.io/airbnb_clone/"
+
+figma:"https://www.figma.com/design/wBzvwg4z26abzCJbcAjcDw/AIRBNB-CLONES?node-id=13-90&t=gwKUkyhOVsUMIC5E-1"
 
 SCSS 기반으로 Airbnb 사이트의 레이아웃을 클론하고, 이를 음악 사이트 콘셉트에 맞게 재구성하여 제작했습니다.
 
